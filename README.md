@@ -1,5 +1,5 @@
 ## Yandex.Practicum.DA.Project-1
-Yandex Practicum. Data-analyst course. С3 Проект1 - Музыка больших городов. 
+Yandex Practicum. Data-analyst course. С3 Проект1 - Музыка больших городов.   
 Спринт 3 Базовый Python
 ## Проект 1 Яндекс Музыка
 
